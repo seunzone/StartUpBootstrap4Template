@@ -9,7 +9,7 @@ body {
     color: #6c6f73;
 }
 
-h1,h2,h3,h4,h5{
+h1,h2,h3,h4{
     color: #333;
 }
 
@@ -60,3 +60,10 @@ img{
     text-transform: uppercase;
 }
 
+.feature-content {
+    padding: 8rem 0;
+    overflow: hidden;
+}
+h5{
+    color: white;
+}
